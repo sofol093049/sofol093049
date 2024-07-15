@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MD.ROCONUZZAMAN KHAN
-- 👀 'm a passionate web developer with a knack for creating elegant solutions in the digital space. 
+- 👀 i'm a passionate web developer with a knack for creating elegant solutions in the digital space. 
 - 🌱 💻 Skills: Proficient in HTML5, CSS3, JavaScript, and frameworks like React and Vue.js.
 🌐 Expertise: Specializing in building responsive and interactive websites and web applications.
 🔧 Tools: Experienced with Git, GitHub, VS Code, and various design and development tools.
